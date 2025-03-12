@@ -28,7 +28,7 @@ Here are some of the projects I’ve worked on:
 - **FreshCart**: A responsive, multi-page e-commerce website.
   
 
-Visit my portfolio for more: **[Portfolio](https://github.com/AbdulRazaque665)**  
+Visit my portfolio for more: **[Portfolio](https://rk-portfolio-ten.vercel.app/)**  
 
 ## ⚡ Fun Fact  
 **I love coding with a cup of coffee by my side.**  
